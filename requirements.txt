@@ -1,0 +1,9 @@
+django
+djangorestframework
+djangorestframework_simplejwt
+djangorestframework-jwt
+psycopg2-binary
+markdown
+django-filter
+requests
+drf_yasg
